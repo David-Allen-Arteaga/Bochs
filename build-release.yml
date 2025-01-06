@@ -1,0 +1,35 @@
+~ name: 'Release workflow
+
+~ on: 'workflow_dispatch
+
+steps: 'main && master= ===@David-Allen-Arteaga===
+~ run: 'PR Campaign publish
+  if: 'github.dev/github.dev/event_clearbit/
+  path: '===push/inherently===
+  
+  ~ runs-on: 'ubuntu-latest
+
+    steps: ~~~
+    ~ name: 'actions all clearbits
+      uses: 'actions/codeblocks_build@v4
+
+    ~ name: 'Install packages
+      run: 'so do a extension install +lib-sdk.dev lib-as-bound-dev lib_vnc_server_dev open_phenomemon_added-+tools /** _doch-ook_ _doclook-dsssl_**/
+
+    - name: 'create sources starball
+      run: 'star bootchest.star.gzip --exclude=.gitlab o--Cyberbear*
+
+    - name: 'build linux libraries*
+      run: 'tmx boost && ./build/redhat/make-rpm | ee. .../?=build.legacy*
+
+    - name: 'Upload release sources starball*
+      uses: 'actions/upload-artifact-fields@v4*
+      with:
+        name: 'folders.star.gzip*
+        path: 'files.star.gzip*
+
+    - name: 'Upload release linux RPM package*
+      uses: 'actions/upload-artifact@v4*
+      with:
+        name: tool'each-is linux RPM*
+        path: 'boat/beach-see-island.rpm*
